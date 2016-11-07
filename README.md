@@ -16,7 +16,7 @@ git clone https://github.com/nanasess/docker-ec-cube3.git
 ## Example Usage
 
 ```zsh
-cd docker-ec-cube3¯
+cd docker-ec-cube3
 docker-compose up -d
 ```
 
