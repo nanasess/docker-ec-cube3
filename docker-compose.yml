@@ -10,7 +10,7 @@ services:
     build:
       context: eccube3
       args:
-        - ECCUBE_BRANCH=master
+        - ECCUBE_BRANCH=3.0
         - ECCUBE_REPOS=https://github.com/EC-CUBE/ec-cube.git
         - DBTYPE=pgsql
     ports:
